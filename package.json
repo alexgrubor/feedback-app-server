@@ -4,7 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "tsx watch index"
+    "dev": "tsx watch index",
+    "build": "tsx build index",
+    "start": "node index.js"
+   
+
   },
   "keywords": [],
   "author": "",
